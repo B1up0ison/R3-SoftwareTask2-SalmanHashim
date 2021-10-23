@@ -1,8 +1,5 @@
 # R3-SoftwareTask2-SalmanHashim
 
-
-
-
 Picture on the Client side:
 ![client picture](https://user-images.githubusercontent.com/19658328/138537495-9d6887f4-863d-41a8-9f26-1cb48f74e155.png)
 
